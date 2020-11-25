@@ -1,0 +1,5 @@
+envpupdate
+__pycache__
+.vscode
+*.csv
+*.Log
